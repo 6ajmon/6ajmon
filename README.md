@@ -16,6 +16,8 @@ I'm an active member of the Computer Science Student's Association at my univers
 
 * **Winner:** [LabyrythmMod](https://github.com/6ajmon/LabyrythmMod) - Minecraft Modding Competition (Computer Science Student's Association UMK).
 * **Second Place:** [FamilyVault](https://github.com/FamilyVaultApp) - Team Programming Presentations at NCU (Social Category).
+* **Honourable Mention:** [FamilyVault](https://github.com/FamilyVaultApp) - 17th National Young Masters Competition (Teleinformatics Forum).
+
 
 ## 📫 How to reach me:
 

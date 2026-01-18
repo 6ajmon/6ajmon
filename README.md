@@ -22,4 +22,4 @@ I'm an active member of the Computer Science Student's Association at my univers
 ## 📫 How to reach me:
 
 * **Email:** sajmonskkoniec@gmail.com
-* **LinkedIn:** [linkedin.com/in/sajmon-koniec](https://www.linkedin.com/in/sajmon-koniec-597888344/)
+* **LinkedIn:** https://www.linkedin.com/in/sajmon-koniec/

@@ -1,4 +1,4 @@
-# Hi there, I'm Sajmon 👋
+# Hi there!! I'm Sajmon 👋
 
 I'm a Computer Science engineering student at Nicolaus Copernicus University in Toruń. My primary passion lies in game development, and I'm constantly exploring new ways to create engaging interactive experiences.
 
